@@ -43,15 +43,17 @@
                         <input type="text" name="email"/><br/><br/>
                         <label>Crie uma senha: </label>
                         <input type="text" name="senha"/><br/><br/>
+                        </div>
                         <input type="submit" class="btn btn-success" value="Entrar">
                         <input type="reset" class="btn btn-danger" value="Limpar">
+                        </div>
                     </form>
                 </div>
                 <div class="col-4">
 
-                </div>
                 
-            </div>
+                
+            </div>    
         </div>
     </body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
