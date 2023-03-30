@@ -16,32 +16,42 @@
            // include("menu.php");
         ?>
         <div class="container">
-        <div class="azulmarinho"> 
-        <h1>Cadastro</h1>
-        </div>
-        
-        <form action="cadastro.php" method="get">
-            <label>Nome completo: </label>
-            <input type="text" name="nome"/><br/><br/>
-            <label>Data de nascimento: </label>
-            <input type="text" name="data"/><br/><br/>
-            <label>CPF: </label>
-            <input type="text" name="CC"/><br/><br/>
-            <label>Cartao SUS: </label>
-            <input type="text" name="CC"/><br/><br/>
-            <label>Endereco: </label>
-            <input type="text" name="civil"/><br/><br/>
-            <label>nº: </label>
-            <input type="text" name="pais"/><br/><br/>
-            <label>Numero de telefone: </label>
-            <input type="text" name="cidade"/><br/><br/>
-            <label>E-Mail: </label>
-            <input type="text" name="email"/><br/><br/>
-            <label>Crie uma senha: </label>
-            <input type="text" name="senha"/><br/><br/>
-            <input type="submit" value="Entrar">
-            <input type="reset" value="Limpar">
-        </form>
+            <div class="azulmarinho"> 
+                <h1>Cadastro</h1>
+            </div>
+            <div class="row">
+                <div class="col-4">
+
+                </div>
+                <div class="col-4">
+                    <form action="cadastro.php" method="get">
+                        <label>Nome completo: </label>
+                        <input type="text" name="nome"/><br/><br/>
+                        <label>Data de nascimento: </label>
+                        <input type="text" name="data"/><br/><br/>
+                        <label>CPF: </label>
+                        <input type="text" name="CC"/><br/><br/>
+                        <label>Cartao SUS: </label>
+                        <input type="text" name="CC"/><br/><br/>
+                        <label>Endereco: </label>
+                        <input type="text" name="civil"/><br/><br/>
+                        <label>nº: </label>
+                        <input type="text" name="pais"/><br/><br/>
+                        <label>Numero de telefone: </label>
+                        <input type="text" name="cidade"/><br/><br/>
+                        <label>E-Mail: </label>
+                        <input type="text" name="email"/><br/><br/>
+                        <label>Crie uma senha: </label>
+                        <input type="text" name="senha"/><br/><br/>
+                        <input type="submit" class="btn btn-success" value="Entrar">
+                        <input type="reset" class="btn btn-danger" value="Limpar">
+                    </form>
+                </div>
+                <div class="col-4">
+
+                </div>
+                
+            </div>
         </div>
     </body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
