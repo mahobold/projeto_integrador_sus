@@ -5,13 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="projeto.css">
+
     <title>posto</title>
 </head>
 <body>
   <!--centralizar as letras ai-->
-    <h1>Postos de saúde</h1>
+    <div class="postos">
+  <h1>Postos de saúde</h1>
+  </div>
+  <div class="postos2">
      <p>Logo a baixo teremos varios postos na localidade de ivaiporã.<p>
-
+     </div>
 <!--centralizar as letras ai-->
  <h2>POSTO DE SAUDE DE JACUTINGA</h2>
  <img src="https://cdn.tnonline.com.br/img/Artigo-Destaque/550000/Inauguracao-faz-parte-das-comemoracoes-do-60-anive-00559432-0-202111190625.jpg?xid=493491" alt="">
