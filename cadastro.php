@@ -27,24 +27,24 @@
                     <form action="cadastro.php" method="get">
                         <label>Nome completo: </label>
                         <input type="text" name="nome"/><br/><br/>
-                        <label>Data de nascimento: </label>
-                        <input type="text" name="data"/><br/><br/>
                         <label>CPF: </label>
+                        <input type="text" name="data"/><br/><br/>
+                        <label>RG:</label>
                         <input type="text" name="CC"/><br/><br/>
-                        <label>Cartao SUS: </label>
+                        <label>Numero de telefone: </label>
                         <input type="text" name="CC"/><br/><br/>
-                        <label>Endereco: </label>
+                        <label>E-Mail: </label>
                         <input type="text" name="civil"/><br/><br/>
                         <label>nº: </label>
                         <input type="text" name="pais"/><br/><br/>
-                        <label>Numero de telefone: </label>
+                        <label> </label>
                         <input type="text" name="cidade"/><br/><br/>
-                        <label>E-Mail: </label>
+                        <label> </label>
                         <input type="text" name="email"/><br/><br/>
                         <label>Crie uma senha: </label>
                         <input type="text" name="senha"/><br/><br/>
                         </div>
-                        <input type="submit" class="btn btn-success" value="Entrar">
+                        <input type="submit" class="btn btn-success" value="exames">
                         <input type="reset" class="btn btn-danger" value="Limpar">
                         </div>
                     </form>
