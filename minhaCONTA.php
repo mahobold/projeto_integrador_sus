@@ -9,17 +9,12 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="projeto.css">
-        <title>Cadastro</title>
+        <title>MINHA CONTA</title>
     </head>
     <body>
         <?php
            // include("menu.php");
         ?>
-                 <!--centralizar aqui ANAAAA----------------------------------------------------------------------------------------------------------------------->
-                 <h1>Minha conta</h1>
-        <img src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/12/DES20221218234.jpg?w=1200&h=1200&crop=1" class="img-thumbnail" alt="...">
-                  <!------------------------------------------------------------------------------------------------------------------------------------------------->
-
         <div class="container">
             <div class="azulmarinho"> 
                 <h1>Cadastro</h1>
@@ -40,21 +35,24 @@
                         <input type="text" name="CC"/><br/><br/>
                         <label>E-Mail: </label>
                         <input type="text" name="civil"/><br/><br/>
-
+                        <label>nº: </label>
+                        <input type="text" name="pais"/><br/><br/>
+                        <label> </label>
+                        <input type="text" name="cidade"/><br/><br/>
+                        <label> </label>
+                        <input type="text" name="email"/><br/><br/>
+                        <label>Crie uma senha: </label>
+                        <input type="text" name="senha"/><br/><br/>
                         </div>
-                        <input type="submit" class="btn btn-success" value="Exames">
+                        <input type="submit" class="btn btn-success" value="Entrar">
                         <input type="reset" class="btn btn-danger" value="Limpar">
                         </div>
                     </form>
                 </div>
                 <div class="col-4">
 
-
-                         
-                  <!--centralizar aqui ANAAAA------------------------------------------------------------------------------->
-                <img src="https://jpimg.com.br/uploads/2022/12/000_334p8nw.jpg" class="rounded mx-auto d-block" alt="...">
-                 <!------------------------------------------------------------------------------------------------------------>
-
+                
+                
             </div>    
         </div>
     </body>
