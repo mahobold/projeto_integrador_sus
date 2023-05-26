@@ -14,9 +14,7 @@
     <div class="postos">
   <h1>Postos de saúde</h1>
   </div>
-  <div class="postos2">
-     <p>Logo a baixo teremos varios postos na localidade de ivaiporã.<p>
-     </div>
+
 <!--centralizar as letras ai-->
  <h2>POSTO DE SAUDE DE JACUTINGA</h2>
  <img src="https://cdn.tnonline.com.br/img/Artigo-Destaque/550000/Inauguracao-faz-parte-das-comemoracoes-do-60-anive-00559432-0-202111190625.jpg?xid=493491" alt="">
@@ -28,7 +26,10 @@
 <table class="table" >
   <thead>
     <tr>
-      <th scope="col">#</th>
+      <th scope="col"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar3" viewBox="0 0 16 16">
+  <path d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+  <path d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg></th>
       <th scope="col">Dias</th>
       <th scope="col">Horário/Manhã</th>
       <th scope="col">Horário/Tarde</th>
@@ -37,7 +38,7 @@
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Segunda-feira</td>    <!--colocar a tabela menor-->
+      <td>Segunda-feira</td>   
       <td>07:30 às 11:30</td>
       <td>13:00 às 17:00</td>
     </tr>
@@ -67,7 +68,7 @@
     </tr>
   </tbody>
 </table>
-Para ir para do endereço clica abaixo
+
 <div class="card" style="width: 18rem;">
   <img src="https://clubcoworking.com.br/wp-content/uploads/2022/06/endereco-comercial.jpg" class="card-img-top" alt="...">
   <div class="card-body">
@@ -91,7 +92,10 @@ Para ir para do endereço clica abaixo
 <table class="table" >
   <thead>
     <tr>
-      <th scope="col">#</th>
+      <th scope="col"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar3" viewBox="0 0 16 16">
+  <path d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+  <path d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg></th>
       <th scope="col">Dias</th>
       <th scope="col">Horário/Manhã</th>
       <th scope="col">Horário/Tarde</th>
@@ -151,7 +155,10 @@ Para ir para do endereço clica abaixo
 <table class="table" >
   <thead>
     <tr>
-      <th scope="col">#</th>
+      <th scope="col"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar3" viewBox="0 0 16 16">
+  <path d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+  <path d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg></th>
       <th scope="col">Dias</th>
       <th scope="col">Horário/Manhã</th>
       <th scope="col">Horário/Tarde</th>
@@ -160,7 +167,7 @@ Para ir para do endereço clica abaixo
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Segunda-feira</td>    <!--colocar a tabela menor-->
+      <td>Segunda-feira</td>    
       <td>07:30 às 11:30</td>
       <td>13:00 às 17:00</td>
     </tr>
