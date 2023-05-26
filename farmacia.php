@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
   <link rel="stylesheet" href="projeto.css">
-  <title>Nintendo</title>
+  <title>Farmácia</title>
 </head>
 
 <body>
@@ -28,7 +28,7 @@
               <h5 class="card-title">Alendronato 70mg</h5>
             </div>
           </div>
-          <h6>Disponivel</h6>
+          <h6 class="d">Disponível</h6>
         </div>
       </div>
       <div class="col-md-12">
@@ -39,7 +39,7 @@
               <h5 class="card-title">Captopril 25mg</h5>
             </div>
           </div>
-          <h6>Disponivel</h6>
+          <h6 class="d">Disponível</h6>
         </div>
       </div>
       <div class="col-md-12">
@@ -50,7 +50,7 @@
               <h5 class="card-title">Etanolol 25mg</h5>
             </div>
           </div>
-          <h6>Disponivel</h6>
+          <h6 class="d">Disponível</h6>
         </div>
       </div>
       <div class="col-md-12">
@@ -61,7 +61,7 @@
               <h5 class="card-title">Glibenclamida 5mg</h5>
             </div>
           </div>
-          <h6>Indisponivel</h6>
+          <h6 class="i">Indisponível</h6>
         </div>
       </div>
       <div class="col-md-12">
@@ -72,7 +72,7 @@
               <h5 class="card-title">hidroclorotiazida 25mg</h5>
             </div>
           </div>
-          <h6>Indisponivel</h6>
+          <h6 class="i">Indisponível</h6>
         </div>
       </div>
       <div class="col-md-12">
@@ -83,7 +83,7 @@
               <h5 class="card-title">Losartana 50mg</h5>
             </div>
           </div>
-          <h6>Indisponivel</h6>
+          <h6 class="i">Indisponível</h6>
         </div>
       </div>
     </div>
@@ -99,7 +99,7 @@
               <h5 class="card-title">Maleato 5mg</h5>
             </div>
           </div>
-          <h6>Disponivel</h6>
+          <h6 class="d">Disponível</h6>
         </div>
       </div>
       <div class="col-md-12">
@@ -110,7 +110,7 @@
               <h5 class="card-title">Metformina 850mg</h5>
             </div>
           </div>
-          <h6>Disponivel</h6>
+          <h6 class="d">Disponível</h6>
         </div>
       </div>
       <div class="col-md-12">
@@ -121,7 +121,7 @@
               <h5 class="card-title">Parecetamol 500mg</h5>
             </div>
           </div>
-          <h6>Disponivel</h6>
+          <h6 class="d">Disponível</h6>
         </div>
       </div>
       <div class="col-md-12">
@@ -132,29 +132,29 @@
               <h5 class="card-title">Salbutamol 2,5mg</h5>
             </div>
           </div>
-          <h6>Indisponivel</h6>
+          <h6 class="i">Indisponível</h6>
         </div>
       </div>
       <div class="col-md-12">
         <div class="details">
           <div class="card" style="width: 18rem;">
-            <img src="img_farmacia/hidroclorotiazida.png" class="card-img-top">
+            <img src="img_farmacia/sinvastatina.png" class="card-img-top">
             <div class="card-body">
               <h5 class="card-title">Sinvastatina 25mg</h5>
             </div>
           </div>
-          <h6>Indisponivel</h6>
+          <h6 class="i">Indisponível</h6>
         </div>
       </div>
       <div class="col-md-12">
         <div class="details">
           <div class="card" style="width: 18rem;">
-            <img src="img_farmacia/losartana.png" class="card-img-top">
+            <img src="img_farmacia/ciclobenzaprina.png" class="card-img-top">
             <div class="card-body">
-              <h5 class="card-title">Losartana 50mg</h5>
+              <h5 class="card-title">ciclobenzaprina 5mg</h5>
             </div>
           </div>
-          <h6>Indisponivel</h6>
+          <h6 class="i">Indisponível</h6>
         </div>
       </div>
     </div>
