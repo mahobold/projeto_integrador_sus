@@ -6,35 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página profissões</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <link rel="stylesheet" href="projeto.css">
 </head>
 <body>
     <?php
-    include ("menu.php")
+    include ("menu.php");
     ?>
-      <br>
-      <br>
-      <br>
-      <div id="carouselExampleFade" class="carousel slide carousel-fade">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img src="imagens\logo_sus.jpg" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="imagens\sistema.jpg" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="imagens\SUS.jpg" class="d-block w-100" alt="...">
-          </div>
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div>
+  
      <br>
      <br>
      <br>
@@ -92,12 +70,12 @@
     <div class="col-md-12">
         <div class="details">
             <div class="card" style="width: 18rem;">
-                <img src="imagens\medico5.jpg" class="card-img-top">
+                <img src="imagens\luiz_passos.jpg" class="card-img-top">
                 <div class="card-body">
-                  <h5 class="card-title">Agusti Zanoni</h5>
+                  <h5 class="card-title">Luiz Passos</h5>
                 </div>
               </div>
-            <a href="https://a.co/d/2sQhPbc">Ver formação</a>
+            <a href="imagens\Luiz_passos.pdf">Ver formação</a>
     </div>
     </div>
     <div class="col-md-12">
@@ -130,12 +108,12 @@
       <div class="col-md-12">
           <div class="details">
               <div class="card" style="width: 18rem;">
-                  <img src="imagens\medico8.jpg" class="card-img-top">
+                  <img src="imagens\Alex_Gonçalves.jpg" class="card-img-top">
                   <div class="card-body">
-                    <h5 class="card-title">Alex Gourmet</h5>
+                    <h5 class="card-title">Alex Gonçalves</h5>
                   </div>
                 </div>
-              <a href="https://a.co/d/clXaASM">Ver formação</a>
+              <a href="imagens\Alex_gONÇALVES.pdf">Ver formação</a>
           </div>
     </div>
     <div class="col-md-12">
@@ -146,7 +124,7 @@
                 <h5 class="card-title">Erick Jaquicn</h5>
               </div>
             </div>
-          <a href="https://a.co/d/47Rgrl2">Ver formação</a>
+          <a href="imagens\curriculoerick.pdf">Ver formação</a>
       </div>
   </div>
   <div class="col-md-12">
@@ -157,7 +135,7 @@
                 <h5 class="card-title">Elisandra Bertotti</h5>
               </div>
             </div>
-          <a href="https://a.co/d/hJoQ23L">Ver formação</a>
+          <a href="imagens\curriculoelisandra.pdf">Ver formação</a>
   </div>
   </div>
   <div class="col-md-12">
@@ -168,18 +146,18 @@
                 <h5 class="card-title">Sabrina Ferreira</h5>
               </div>
             </div>
-          <a href="https://a.co/d/2sQhPbc">Ver formação</a>
+          <a href="imagens\curriculosabrina2.pdf">Ver formação</a>
   </div>
   </div>
   <div class="col-md-12">
       <div class="details">
           <div class="card" style="width: 18rem;">
-              <img src="imagens\medico12.jpg" class="card-img-top">
+              <img src="imagens\Maria_Araújo.jpg" class="card-img-top">
               <div class="card-body">
-                <h5 class="card-title">Angel Muchiuti</h5>
+                <h5 class="card-title">Maria Araújo</h5>
               </div>
             </div>
-          <a href="https://a.co/d/d41MlUx">Ver formação</a>
+          <a href="imagens\Maria_Araújo.pdf">Ver formação</a>
   </div>
   </div>
    </div>
@@ -195,7 +173,7 @@
               <h5 class="card-title">Carla Vicente</h5>
             </div>
           </div>
-        <a href="https://a.co/d/ektPUiK">Ver formação</a>
+        <a href="imagens\curriculocarlavicente.pdf">Ver formação</a>
     </div>
 </div>
     <div class="col-md-12">
@@ -206,7 +184,7 @@
                   <h5 class="card-title">Alessandra Souza</h5>
                 </div>
               </div>
-            <a href="https://a.co/d/clXaASM">Ver formação</a>
+            <a href="imagens\curriculoalessandra.pdf">Ver formação</a>
         </div>
   </div>
   <div class="col-md-12">
@@ -214,21 +192,21 @@
         <div class="card" style="width: 18rem;">
             <img src="imagens\medico15.jpg" class="card-img-top">
             <div class="card-body">
-              <h5 class="card-title">Isadora agatsuma</h5>
+              <h5 class="card-title">Isadora Wagatsuma</h5>
             </div>
           </div>
-        <a href="https://a.co/d/47Rgrl2">Ver formação</a>
+        <a href="imagens\isadoraW.pdf">Ver formação</a>
     </div>
 </div>
 <div class="col-md-12">
     <div class="details">
         <div class="card" style="width: 18rem;">
-            <img src="imagens\medico16.jpg" class="card-img-top">
+            <img src="imagens\elisa2_pereira.jpg" class="card-img-top">
             <div class="card-body">
-              <h5 class="card-title">Elisandra Bertotti</h5>
+              <h5 class="card-title">Elisa Pereira</h5>
             </div>
           </div>
-        <a href="https://a.co/d/hJoQ23L">Ver formação</a>
+        <a href="imagens\Elisa_pereira.jpg.pdf">Ver formação</a>
 </div>
 </div>
 <div class="col-md-12">
@@ -239,7 +217,7 @@
               <h5 class="card-title">Angela Ferreira</h5>
             </div>
           </div>
-        <a href="https://a.co/d/2sQhPbc">Ver formação</a>
+        <a href="imagens\Angela_Ferreira.pdf">Ver formação</a>
 </div>
 </div>
 <div class="col-md-12">
@@ -247,10 +225,10 @@
         <div class="card" style="width: 18rem;">
             <img src="imagens\medico18.jpg" class="card-img-top">
             <div class="card-body">
-              <h5 class="card-title">Angel Muchiuti</h5>
+              <h5 class="card-title">Fernando Couto</h5>
             </div>
           </div>
-        <a href="https://a.co/d/d41MlUx">Ver formação</a>
+        <a href="imagens\Fernando_Couto.pdf">Ver formação</a>
 </div>
 </div>
  </div>
